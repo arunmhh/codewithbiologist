@@ -1,13 +1,14 @@
 ---
 title: "Welcome to Mycodewithbiologist"
 description: |
-  Welcome to our new blog, Mycodewithbiologist. We hope you enjoy 
-  reading what we have to say!
+    A short description of the post.
 author:
-  - name: Arun Kumar 
-    url: https://example.com/codewithbiologist
-    affiliation: Spacely Sprockets
-    affiliation_url: https://example.com/spacelysprokets
+  - name: Arun Kumar
+    url: https://https://codewithbiologist.netlify.app/
+date: 2024-06-19
+output:
+  distill::distill_article:
+    self_contained: false
 date: 06-19-2024
 output:
   distill::distill_article:
