@@ -1,0 +1,28 @@
+---
+title: "Python Pingouin: Mastering the Wilcoxon Signed Rank Test Tutorial"
+description: |
+  A short description of the post.
+author:
+  - name: Arun Kumar
+    url: https://https://codewithbiologist.netlify.app/
+date: 2024-06-19
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{r}
+library(tidyverse)
+ggplot(mtcars, aes(mpg, hp))+
+  geom_point()+
+  geom_smooth()+
+  theme_classic()
+```
+
+
+
