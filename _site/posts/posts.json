@@ -15,5 +15,22 @@
     "preview": {},
     "last_modified": "2024-06-19T00:08:12+02:00",
     "input_file": {}
+  },
+  {
+    "path": "posts/2024-06-19-python-pingouin-mastering-the-wilcoxon-signed-rank-test-tutorial/",
+    "title": "Python Pingouin: Mastering the Wilcoxon Signed Rank Test Tutorial",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Arun Kumar",
+        "url": "https://https://codewithbiologist.netlify.app/"
+      }
+    ],
+    "date": "2024-06-19",
+    "categories": [],
+    "contents": "\n\n\n\n\n\n\n",
+    "preview": "posts/2024-06-19-python-pingouin-mastering-the-wilcoxon-signed-rank-test-tutorial/python-pingouin-mastering-the-wilcoxon-signed-rank-test-tutorial_files/figure-html5/unnamed-chunk-1-1.png",
+    "last_modified": "2024-06-19T00:39:46+02:00",
+    "input_file": "python-pingouin-mastering-the-wilcoxon-signed-rank-test-tutorial.knit.md"
   }
 ]
