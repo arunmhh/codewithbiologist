@@ -25,4 +25,11 @@ ggplot(mtcars, aes(mpg, hp))+
 ```
 
 
+In this comprehensive tutorial, you will learn everything you need to know about the Wilcoxon Signed Rank Test in python. How to do Wilcoxon Signed Rank Test in python using pingouin library . How to perform the wilcoxon test after testing the hypothesis for the paired samples. shapiro test for checking the assumption for normality and performing wilcoxon signed rank test using wilcox.test function in pingouin library.
+
+ From understanding the concept behind the test for paired sample test statistics to implementing it in python programming language, this ultimate guide for wilcoxon test will walk you through the entire process step by step. 
+
+The video includes explanations, examples, and pingouin library code demonstrations to help you master wilcox signed rank test and statistical test output. Whether you are a beginner or an experienced data analyst, this video is perfect for anyone looking to learn or refresh their knowledge on the Wilcoxon Signed Rank Test in Python pingouin library.
+
+
 

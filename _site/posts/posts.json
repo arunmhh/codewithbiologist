@@ -1,22 +1,5 @@
 [
   {
-    "path": "posts/2024-06-19-python-pingouin-mastering-the-wilcoxon-signed-rank-test-tutorial/",
-    "title": "Python Pingouin: Mastering the Wilcoxon Signed Rank Test Tutorial",
-    "description": "A short description of the post.",
-    "author": [
-      {
-        "name": "Arun Kumar",
-        "url": "https://https://codewithbiologist.netlify.app/"
-      }
-    ],
-    "date": "2024-06-19",
-    "categories": [],
-    "contents": "\n\n\n\n\n\n\n",
-    "preview": "posts/2024-06-19-python-pingouin-mastering-the-wilcoxon-signed-rank-test-tutorial/python-pingouin-mastering-the-wilcoxon-signed-rank-test-tutorial_files/figure-html5/unnamed-chunk-1-1.png",
-    "last_modified": "2024-06-19T00:39:46+02:00",
-    "input_file": "python-pingouin-mastering-the-wilcoxon-signed-rank-test-tutorial.knit.md"
-  },
-  {
     "path": "posts/welcome/",
     "title": "Welcome to Mycodewithbiologist",
     "description": "A short description of the post.",
@@ -32,5 +15,22 @@
     "preview": "posts/welcome/welcome_files/figure-html5/pressure-1.png",
     "last_modified": "2024-06-19T00:54:55+02:00",
     "input_file": "welcome.knit.md"
+  },
+  {
+    "path": "posts/2024-06-19-python-pingouin-mastering-the-wilcoxon-signed-rank-test-tutorial/",
+    "title": "Python Pingouin: Mastering the Wilcoxon Signed Rank Test Tutorial",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Arun Kumar",
+        "url": "https://https://codewithbiologist.netlify.app/"
+      }
+    ],
+    "date": "2024-06-19",
+    "categories": [],
+    "contents": "\n\n\n\nIn this comprehensive tutorial, you will learn everything you need to know about the Wilcoxon Signed Rank Test in python. How to do Wilcoxon Signed Rank Test in python using pingouin library . How to perform the wilcoxon test after testing the hypothesis for the paired samples. shapiro test for checking the assumption for normality and performing wilcoxon signed rank test using wilcox.test function in pingouin library.\nFrom understanding the concept behind the test for paired sample test statistics to implementing it in python programming language, this ultimate guide for wilcoxon test will walk you through the entire process step by step.\nThe video includes explanations, examples, and pingouin library code demonstrations to help you master wilcox signed rank test and statistical test output. Whether you are a beginner or an experienced data analyst, this video is perfect for anyone looking to learn or refresh their knowledge on the Wilcoxon Signed Rank Test in Python pingouin library.\n\n\n\n",
+    "preview": "posts/2024-06-19-python-pingouin-mastering-the-wilcoxon-signed-rank-test-tutorial/python-pingouin-mastering-the-wilcoxon-signed-rank-test-tutorial_files/figure-html5/unnamed-chunk-1-1.png",
+    "last_modified": "2024-06-19T01:06:04+02:00",
+    "input_file": "python-pingouin-mastering-the-wilcoxon-signed-rank-test-tutorial.knit.md"
   }
 ]
