@@ -1,7 +1,7 @@
 ---
 title: "Welcome to Mycodewithbiologist"
 description: |
-    A short description of the post.
+  A short description of the post.
 author:
   - name: Arun Kumar
     url: https://https://codewithbiologist.netlify.app/
@@ -14,11 +14,16 @@ output:
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
-
-# Learn more about creating blogs with Distill at:
-# https://rstudio.github.io/distill/blog.html
-
 ```
 
+```{r cars}
+summary(cars)
+```
 
+## Including Plots
 
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```

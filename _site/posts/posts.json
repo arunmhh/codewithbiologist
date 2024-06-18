@@ -28,9 +28,9 @@
     ],
     "date": "2024-06-19",
     "categories": [],
-    "contents": "\n\n\n\n",
-    "preview": {},
-    "last_modified": "2024-06-19T00:47:25+02:00",
+    "contents": "\n\n     speed           dist       \n Min.   : 4.0   Min.   :  2.00  \n 1st Qu.:12.0   1st Qu.: 26.00  \n Median :15.0   Median : 36.00  \n Mean   :15.4   Mean   : 42.98  \n 3rd Qu.:19.0   3rd Qu.: 56.00  \n Max.   :25.0   Max.   :120.00  \n\nIncluding Plots\nYou can also embed plots, for example:\n\n\n\n\n\n\n",
+    "preview": "posts/welcome/welcome_files/figure-html5/pressure-1.png",
+    "last_modified": "2024-06-19T00:54:55+02:00",
     "input_file": "welcome.knit.md"
   }
 ]
