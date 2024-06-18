@@ -9,10 +9,7 @@ date: 2024-06-19
 output:
   distill::distill_article:
     self_contained: false
-date: 06-19-2024
-output:
-  distill::distill_article:
-    self_contained: false
+
 ---
 
 ```{r setup, include=FALSE}
